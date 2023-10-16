@@ -10,7 +10,7 @@ class Solution:
         for index, num in enumerate(nums):
             target_num = num
             # target_list = nums.slice(index)
-            print(target_list)
+            # print(target_list)
 
 
     #   return False
