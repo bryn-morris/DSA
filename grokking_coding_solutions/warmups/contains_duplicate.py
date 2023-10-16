@@ -1,4 +1,5 @@
-
+test_case1 = [1,2,3,4]
+test_case2 = [1,2,3,1]
 
 
 class Solution:
